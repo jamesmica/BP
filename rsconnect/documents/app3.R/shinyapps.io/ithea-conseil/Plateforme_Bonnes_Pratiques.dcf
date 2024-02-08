@@ -1,0 +1,13 @@
+name: Plateforme_Bonnes_Pratiques
+title:
+username: ithea-conseil
+account: ithea-conseil
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10619439
+bundleId: 8038821
+url: https://ithea-conseil.shinyapps.io/Plateforme_Bonnes_Pratiques/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app2.R|carousel/app.R
